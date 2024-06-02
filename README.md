@@ -105,7 +105,7 @@ To download the Xray-linux-64.zip file, we can use the wget command.
 Then we will unzip the file.
 
 ```
-wget https://github.com/XTLS/Xray-core/releases/download/v1.8.3/Xray-linux-arm64-v8a.zip
+wget https://github.com/XTLS/Xray-core/releases/download/v1.8.13/Xray-linux-arm64-v8a.zip
 ```
 ```
 unzip Xray-linux-64.zip

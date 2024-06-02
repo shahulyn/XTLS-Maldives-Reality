@@ -1,4 +1,4 @@
-# XTLS-Iran-Reality
+# XTLS-Maldives-Reality (bypass 5mbps speed limit Dhiraagu fibre)
 ### Xray-core (V2ray) Server with Reality Protocol for bypassing internet censorship in Iran with TLS encryption.
 
 - If you need farsi translation check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
